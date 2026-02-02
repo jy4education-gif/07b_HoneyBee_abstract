@@ -6,4 +6,7 @@ public class Queen extends HoneyBee{
         return "I'm a Queen, any questions?";
     }
     
+    public String fly(){
+        return "I'm a Queen, Have I to fly?";
+    }
 }
