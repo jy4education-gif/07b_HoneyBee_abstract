@@ -12,7 +12,7 @@ public class App {
         pollObj(worker);
         pollObj(drone);
 
-         //-- Das sollte eigentlich nicht gehen!--//
+         //-- Das geht aufgrund von abstract class nicht!--//
         // HoneyBee bee = new HoneyBee(); // SuperKlasse!
         // pollObj(bee);
      
